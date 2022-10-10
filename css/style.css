@@ -9776,6 +9776,10 @@ textarea.form-control {
       color: #000000;
       font-style: italic; }
 
+.card-padding {
+  padding: 10px;
+}
+
 #ftco-loader {
   position: fixed;
   width: 96px;
